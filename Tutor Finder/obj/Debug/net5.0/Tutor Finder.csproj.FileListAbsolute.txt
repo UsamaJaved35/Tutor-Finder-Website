@@ -1,0 +1,72 @@
+E:\6th semester\EAD\Tutor Finder\Tutor Finder\bin\Debug\net5.0\appsettings.Development.json
+E:\6th semester\EAD\Tutor Finder\Tutor Finder\bin\Debug\net5.0\appsettings.json
+E:\6th semester\EAD\Tutor Finder\Tutor Finder\bin\Debug\net5.0\Tutor Finder.exe
+E:\6th semester\EAD\Tutor Finder\Tutor Finder\bin\Debug\net5.0\Tutor Finder.deps.json
+E:\6th semester\EAD\Tutor Finder\Tutor Finder\bin\Debug\net5.0\Tutor Finder.runtimeconfig.json
+E:\6th semester\EAD\Tutor Finder\Tutor Finder\bin\Debug\net5.0\Tutor Finder.runtimeconfig.dev.json
+E:\6th semester\EAD\Tutor Finder\Tutor Finder\bin\Debug\net5.0\Tutor Finder.dll
+E:\6th semester\EAD\Tutor Finder\Tutor Finder\bin\Debug\net5.0\ref\Tutor Finder.dll
+E:\6th semester\EAD\Tutor Finder\Tutor Finder\bin\Debug\net5.0\Tutor Finder.pdb
+E:\6th semester\EAD\Tutor Finder\Tutor Finder\bin\Debug\net5.0\Tutor Finder.Views.dll
+E:\6th semester\EAD\Tutor Finder\Tutor Finder\bin\Debug\net5.0\Tutor Finder.Views.pdb
+E:\6th semester\EAD\Tutor Finder\Tutor Finder\bin\Debug\net5.0\Azure.Core.dll
+E:\6th semester\EAD\Tutor Finder\Tutor Finder\bin\Debug\net5.0\Azure.Identity.dll
+E:\6th semester\EAD\Tutor Finder\Tutor Finder\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\6th semester\EAD\Tutor Finder\Tutor Finder\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+E:\6th semester\EAD\Tutor Finder\Tutor Finder\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+E:\6th semester\EAD\Tutor Finder\Tutor Finder\bin\Debug\net5.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\6th semester\EAD\Tutor Finder\Tutor Finder\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\6th semester\EAD\Tutor Finder\Tutor Finder\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+E:\6th semester\EAD\Tutor Finder\Tutor Finder\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+E:\6th semester\EAD\Tutor Finder\Tutor Finder\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\6th semester\EAD\Tutor Finder\Tutor Finder\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+E:\6th semester\EAD\Tutor Finder\Tutor Finder\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+E:\6th semester\EAD\Tutor Finder\Tutor Finder\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+E:\6th semester\EAD\Tutor Finder\Tutor Finder\bin\Debug\net5.0\System.Runtime.Caching.dll
+E:\6th semester\EAD\Tutor Finder\Tutor Finder\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+E:\6th semester\EAD\Tutor Finder\Tutor Finder\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\6th semester\EAD\Tutor Finder\Tutor Finder\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\6th semester\EAD\Tutor Finder\Tutor Finder\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\6th semester\EAD\Tutor Finder\Tutor Finder\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\6th semester\EAD\Tutor Finder\Tutor Finder\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\6th semester\EAD\Tutor Finder\Tutor Finder\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\6th semester\EAD\Tutor Finder\Tutor Finder\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\6th semester\EAD\Tutor Finder\Tutor Finder\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\6th semester\EAD\Tutor Finder\Tutor Finder\obj\Debug\net5.0\Tutor Finder.GeneratedMSBuildEditorConfig.editorconfig
+E:\6th semester\EAD\Tutor Finder\Tutor Finder\obj\Debug\net5.0\Tutor Finder.AssemblyInfoInputs.cache
+E:\6th semester\EAD\Tutor Finder\Tutor Finder\obj\Debug\net5.0\Tutor Finder.AssemblyInfo.cs
+E:\6th semester\EAD\Tutor Finder\Tutor Finder\obj\Debug\net5.0\Tutor Finder.csproj.CoreCompileInputs.cache
+E:\6th semester\EAD\Tutor Finder\Tutor Finder\obj\Debug\net5.0\Tutor Finder.MvcApplicationPartsAssemblyInfo.cache
+E:\6th semester\EAD\Tutor Finder\Tutor Finder\obj\Debug\net5.0\Tutor Finder.RazorAssemblyInfo.cache
+E:\6th semester\EAD\Tutor Finder\Tutor Finder\obj\Debug\net5.0\Tutor Finder.RazorAssemblyInfo.cs
+E:\6th semester\EAD\Tutor Finder\Tutor Finder\obj\Debug\net5.0\staticwebassets\Tutor Finder.StaticWebAssets.Manifest.cache
+E:\6th semester\EAD\Tutor Finder\Tutor Finder\obj\Debug\net5.0\staticwebassets\Tutor Finder.StaticWebAssets.xml
+E:\6th semester\EAD\Tutor Finder\Tutor Finder\obj\Debug\net5.0\scopedcss\bundle\Tutor Finder.styles.css
+E:\6th semester\EAD\Tutor Finder\Tutor Finder\obj\Debug\net5.0\Tutor Finder.TagHelpers.input.cache
+E:\6th semester\EAD\Tutor Finder\Tutor Finder\obj\Debug\net5.0\Tutor Finder.TagHelpers.output.cache
+E:\6th semester\EAD\Tutor Finder\Tutor Finder\obj\Debug\net5.0\Tutor Finder.RazorCoreGenerate.cache
+E:\6th semester\EAD\Tutor Finder\Tutor Finder\obj\Debug\net5.0\Razor\Views\About\About.cshtml.g.cs
+E:\6th semester\EAD\Tutor Finder\Tutor Finder\obj\Debug\net5.0\Razor\Views\Contact\Contact.cshtml.g.cs
+E:\6th semester\EAD\Tutor Finder\Tutor Finder\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+E:\6th semester\EAD\Tutor Finder\Tutor Finder\obj\Debug\net5.0\Razor\Views\Login\LoginStudent.cshtml.g.cs
+E:\6th semester\EAD\Tutor Finder\Tutor Finder\obj\Debug\net5.0\Razor\Views\Login\LoginTutor.cshtml.g.cs
+E:\6th semester\EAD\Tutor Finder\Tutor Finder\obj\Debug\net5.0\Razor\Views\shared\_AboutPartialView.cshtml.g.cs
+E:\6th semester\EAD\Tutor Finder\Tutor Finder\obj\Debug\net5.0\Razor\Views\shared\_Layout.cshtml.g.cs
+E:\6th semester\EAD\Tutor Finder\Tutor Finder\obj\Debug\net5.0\Razor\Views\Student\StudentForm.cshtml.g.cs
+E:\6th semester\EAD\Tutor Finder\Tutor Finder\obj\Debug\net5.0\Razor\Views\Tutor\Error.cshtml.g.cs
+E:\6th semester\EAD\Tutor Finder\Tutor Finder\obj\Debug\net5.0\Razor\Views\Tutor\TutorForm.cshtml.g.cs
+E:\6th semester\EAD\Tutor Finder\Tutor Finder\obj\Debug\net5.0\Razor\Views\Tutor\Welcome.cshtml.g.cs
+E:\6th semester\EAD\Tutor Finder\Tutor Finder\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+E:\6th semester\EAD\Tutor Finder\Tutor Finder\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+E:\6th semester\EAD\Tutor Finder\Tutor Finder\obj\Debug\net5.0\Tutor Finder.RazorTargetAssemblyInfo.cache
+E:\6th semester\EAD\Tutor Finder\Tutor Finder\obj\Debug\net5.0\Tutor Finder.RazorTargetAssemblyInfo.cs
+E:\6th semester\EAD\Tutor Finder\Tutor Finder\obj\Debug\net5.0\Tutor Finder.Views.pdb
+E:\6th semester\EAD\Tutor Finder\Tutor Finder\obj\Debug\net5.0\Tutor Finder.csproj.CopyComplete
+E:\6th semester\EAD\Tutor Finder\Tutor Finder\obj\Debug\net5.0\Tutor Finder.dll
+E:\6th semester\EAD\Tutor Finder\Tutor Finder\obj\Debug\net5.0\ref\Tutor Finder.dll
+E:\6th semester\EAD\Tutor Finder\Tutor Finder\obj\Debug\net5.0\Tutor Finder.pdb
+E:\6th semester\EAD\Tutor Finder\Tutor Finder\obj\Debug\net5.0\Tutor Finder.genruntimeconfig.cache
+E:\6th semester\EAD\Tutor Finder\Tutor Finder\obj\Debug\net5.0\Razor\Views\Student\Welcome.cshtml.g.cs
+E:\6th semester\EAD\Tutor Finder\Tutor Finder\obj\Debug\net5.0\Razor\Views\Student\Error.cshtml.g.cs
+E:\6th semester\EAD\Tutor Finder\Tutor Finder\obj\Debug\net5.0\Tutor Finder.csproj.AssemblyReference.cache
+E:\6th semester\EAD\Tutor Finder\Tutor Finder\obj\Debug\net5.0\Razor\Views\Login\Welcome.cshtml.g.cs

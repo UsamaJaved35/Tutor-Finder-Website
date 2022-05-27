@@ -1,0 +1,269 @@
+﻿@using Tutor_Finder.Models
+@model Tutor
+@section tutorForm{ 
+<link href="~/css/TeacherForm.css" rel="stylesheet">
+<link href="~/css/animate.min.css" rel="stylesheet">
+
+<link href="~/css/bootstrap.min.css" rel="stylesheet">
+<link href="~/css/bootstrap-icons.css" rel="stylesheet">
+<link href="~/css/boxicons.min.css" rel="stylesheet">
+<link href="~/css/remixicon.css" rel="stylesheet">
+<link href="~/css/swiper-bundle.min.css" rel="stylesheet">
+<div>
+    <p class="text-center fs-1"><u> TEACHER FORM</u></p>
+</div>
+<form method="post" action="/Tutor/TutorForm">
+    <section class="h-100 h-custom" >
+        <div class="container py-5 h-100">
+            <div class="row d-flex justify-content-center align-items-center h-100">
+                <div class="col-12">
+                    <div class="card card-registration card-registration-2" style="border-radius: 15px;">
+                        <div class="card-body p-0">
+                            <div class="row g-0">
+                                <div class="col-lg-6">
+                                    <div class="p-5">
+                                        <h3 class="fw-normal mb-5" style="color: #4835d4;">General Infomation</h3>
+                                        <div class="row">
+                                            <div class="col-md-6 mb-4 pb-2">
+                                                <div class="form-outline">
+                                                    <input type="text" id="form3Examplev2" asp-for="FirstName" class="form-control form-control-lg" required />
+                                                    <label class="form-label" for="form3Examplev2" asp-for="FirstName"></label>
+                                                    <div>
+                                                        <span asp-validation-for="FirstName"></span>
+                                                    </div>
+                                                </div>
+
+                                            </div>
+                                            <div class="col-md-6 mb-4 pb-2">
+
+                                                <div class="form-outline">
+                                                    <input type="text" id="form3Examplev3" asp-for="LastName" class="form-control form-control-lg" required />
+                                                    <label class="form-label" for="form3Examplev3" asp-for="LastName"></label>
+                                                    <div>
+                                                        <span asp-validation-for="LastName"></span>
+                                                    </div>
+                                            </div>
+                                        </div>
+
+                                        <div class="row">
+                                            <div class="col-md-6 mb-4 pb-2">
+
+                                                <div class="form-outline">
+                                                    <input type="text" id="form3Examplev2" asp-for="Password" class="form-control form-control-lg" required />
+                                                    <label class="form-label"  asp-for="Password"for="form3Examplev2">Password</label>
+                                                    <div>
+                                                        <span asp-validation-for="Password"></span>
+                                                    </div>
+                                                </div>
+
+                                            </div>
+                                            <div class="col-md-6 mb-4 pb-2">
+
+                                                <div class="form-outline">
+                                                    <input type="text" id="form3Examplev3" class="form-control form-control-lg" required />
+                                                    <label class="form-label" for="form3Examplev3">Confirm Password</label>
+                                                    <div>
+                                                        <span asp-validation-for="Password"></span>
+                                                    </div>
+                                                </div>
+
+                                            </div>
+                                        </div>
+                                        @*<div class="form-outline">
+                                            <label for="form3Examplev3" asp-for="Gender"></label>
+                                        </div>
+                                        <br>
+                                        <div class="wrapper">
+                                            <input type="radio" name="select" asp-for="Gender" id="option-1" checked required>
+                                            <input type="radio" name="select"asp-for="Gender" id="option-2" required>
+                                            <label for="option-1" class="option option-1">
+                                                <div class="dot"></div>
+                                                <span>Male</span>
+                                            </label>
+                                            <label for="option-2" class="option option-2">
+                                                <div class="dot"></div>
+                                                <span>Female</span>
+                                            </label>
+                                        </div>
+                                        <br> <br>*@
+
+                                    <div class="col-md-6 mb-4 pb-2">
+                                        
+                                        <select class="dropdown">
+                                            <option selected class="btn btn-secondary dropdown-toggle" href="#" role="button" id="dropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                                Qualification Level
+                                            </option>
+                                            <option class="dropdown-item">Undergraduate</option>
+                                            <option class="dropdown-item">Postgraduate</option>
+                                            <option class="dropdown-item">Others</option>
+                                        </select>
+
+                                    </div>
+                                        <div class="row">
+                                            <div class="col-md-6 mb-4 pb-2">
+
+                                                <div class="form-outline">
+                                                    <input type="text" id="form3Examplev2" asp-for="Qualification" class="form-control form-control-lg" required />
+                                                    <label class="form-label" asp-for="Qualification" for="form3Examplev2"></label>
+                                                    <div>
+                                                        <span asp-validation-for="Qualification"></span>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="row">
+                                            <div class="col-md-6 mb-4 pb-4">
+
+                                                <div class="form-outline">
+                                                    <input type="text" id="form3Examplev5" asp-for="Subjects" class="form-control form-control-lg" required />
+                                                    <label class="form-label" for="form3Examplev5" asp-for="Subjects"></label>
+                                                    <div>
+                                                        <span asp-validation-for="Subjects"></span>
+                                                    </div>
+                                                </div>
+
+                                            </div>
+                                        </div>
+                                        <div class="row">
+                                            <div class="col-md-6 mb-4 pb-4">
+
+                                                <div class="form-outline">
+                                                    <input type="text" id="form3Examplev5" class="form-control form-control-lg" asp-for="Experience" required />
+                                                    <label class="form-label" for="form3Examplev5" asp-for="Experience"></label>
+                                                    <div>
+                                                        <span asp-validation-for="Experience"></span>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+
+
+                                        <div class="row align-items-center py-3">
+                                            <div class="col-md-6 ps-6">
+
+                                                <h6 class="mb-0">Upload CV</h6>
+
+                                            </div>
+                                            <div class="col-md-9 pe-5">
+
+                                                <input class="form-control form-control-lg" id="formFileLg" type="file" />
+                                                <div class="small text-muted mt-2">Upload your CV/Resume or any other relevant file. Max file size 50 MB</div>
+
+                                            </div>
+                                        </div>
+                                    </div>
+                             </div>
+                                    </div>
+
+                                <div class="col-lg-6 bg-indigo text-white">
+                                    <div class="p-5">
+                                        <h3 class="fw-normal mb-5">Contact Details</h3>
+
+                                        <div class="mb-4 pb-2">
+                                            <div class="form-outline form-white">
+                                                <input type="text" id="form3Examplea2" class="form-control form-control-lg" asp-for="StreetAddress" />
+                                                <label class="form-label" for="form3Examplea2">Street + Nr</label>
+                                                <div>
+                                                    <span asp-validation-for="StreetAddress"></span>
+                                                </div>
+                                            </div>
+                                        </div>
+
+                                        @*<div class="mb-4 pb-2">
+                                            <div class="form-outline form-white">
+                                                <input type="text" id="form3Examplea3" class="form-control form-control-lg" />
+                                                <label class="form-label" for="form3Examplea3">Additional Information</label>
+                                            </div>
+                                        </div>*@
+
+                                        <div class="row">
+                                            <div class="col-md-5 mb-4 pb-2">
+
+                                                <div class="form-outline form-white">
+                                                    <input type="text" id="form3Examplea4" class="form-control form-control-lg" asp-for="ZipCode" />
+                                                    <label class="form-label" for="form3Examplea4" asp-for="ZipCode"></label>
+                                                    <div>
+                                                        <span asp-validation-for="ZipCode"></span>
+                                                    </div>
+                                                </div>
+
+                                            </div>
+                                            @*<div class="col-md-7 mb-4 pb-2">
+
+                                                <div class="form-outline form-white">
+                                                    <input type="text" id="form3Examplea5" class="form-control form-control-lg" a />
+                                                    <label class="form-label" for="form3Examplea5">Place</label>
+                                                </div>
+
+                                            </div>*@
+                                        </div>
+
+                                        <div class="mb-4 pb-2">
+                                            <div class="form-outline form-white">
+                                                <input type="text" id="form3Examplea6" class="form-control form-control-lg" asp-for="Country" />
+                                                <label class="form-label" for="form3Examplea6" asp-for="Country"></label>
+                                                <div>
+                                                    <span asp-validation-for="Country"></span>
+                                                </div>
+                                            </div>
+                                        </div>
+
+                                        <div class="row">
+                                            <div class="col-md-5 mb-4 pb-2">
+
+                                                <div class="form-outline form-white">
+                                                    <input type="text" id="form3Examplea7" class="form-control form-control-lg" asp-for="PhoneCode" />
+                                                    <label class="form-label" for="form3Examplea7">Code +</label>
+                                                    <div>
+                                                        <span asp-validation-for="PhoneCode"></span>
+                                                    </div>
+                                                </div>
+
+                                            </div>
+                                            <div class="col-md-7 mb-4 pb-2">
+
+                                                <div class="form-outline form-white">
+                                                    <input type="text" id="form3Examplea8" class="form-control form-control-lg" asp-for="PhoneNumber" />
+                                                    <label class="form-label" for="form3Examplea8">Phone Number</label>
+                                                    <div>
+                                                        <span asp-validation-for="PhoneNumber"></span>
+                                                    </div>
+                                                </div>
+
+                                            </div>
+                                        </div>
+
+                                        <div class="mb-4">
+                                            <div class="form-outline form-white">
+                                                <input type="text" id="form3Examplea9" class="form-control form-control-lg" asp-for="Email" />
+                                                <label class="form-label" for="form3Examplea9">Your Email</label>
+                                                <div>
+                                                    <span asp-validation-for="Email"></span>
+                                                </div>
+                                            </div>
+                                        </div>
+
+                                        <div class="form-check d-flex justify-content-start mb-4 pb-3">
+                                            <input class="form-check-input me-3"
+                                                   type="checkbox"
+                                                   value=""
+                                                   id="form2Example3c" />
+                                            <label class="form-check-label text-white" for="form2Example3">
+                                                I do accept the <a href="#!" class="text-white"><u>Terms and Conditions</u></a> of your site.
+                                            </label>
+                                        </div>
+
+                                        <input type="submit" class="btn btn-light btn-lg" data-mdb-ripple-color="dark">
+                                </div>
+                                </div>
+                            
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+</form>
+<script src="https://kit.fontawesome.com/yourcode.js" crossorigin="anonymous"></script>
+}
